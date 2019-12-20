@@ -20,4 +20,16 @@
 
 **Resultados**
 
-4. (Falta)
+4. Se realizó un modelo suprvizado para pronosticar el valor de mercado y salario de jugadoras profesionales de fútbol.
+
+Una vez que se tuvo el modelo entrenado y con el pronosticador final, tomé la información de 15 jugadoras para como serían sus valores teóricos en cuanto al salario. Se realizó un caso de estudio para 3 jugadoras mexicanas que, en promedio, en la Liga MX femenil reciben $4,500 pesos mensuales como salario.
+
+Con base en la predicción, las jugadoras mexicanas Kenti Robles, Charlyn Corral y Stephany Mayor deberían de percibir un salario (teórico) de $1,293,101, $1,163,833 y $1,103,651 pesos de manera anual.
+
+En términos mensuales, las jugadoras estarían percibiendo $107,758, $96,986 y $91,970 pesos mensuales. Una cantidad por encima de los $4,500 pesos que algunas jugadoras en la realidad reciben.
+
+**Siguientes Pasos**
+
+Completar una base de datos con la información de las jugadoras profesionales registradas en la liga femenil e intentar generar una plataforma electrónica (P2C) que les permita buscar mejores condiciones laborales y profesionales.
+
+
